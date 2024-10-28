@@ -22,7 +22,7 @@ paginate = 6
   featured_image = "/images/admin/featured-image.png"
   author = "K. Utus"
   telepon = "//+6281294354959"
-  whatsapp = "//api.whatsapp.com/send?phone=6281294354959&text=*Halo Betonreadymixconcrete.com*%20%3A"
+  whatsapp = "//api.whatsapp.com/send?phone=6285179581745&text=*Halo Betonreadymixconcrete.com*%20%3A"
   enableWhatApps = true
   enableTelepon = true
   tocMinWordCount = 300
@@ -70,14 +70,15 @@ cancellation_policies = [
 service_output = "Pengecoran yang lebih cepat dan presisi dengan pompa beton handal untuk proyek konstruksi Anda."
 
 # Informasi Perusahaan
-companyName = "BetonReadymixConcrete.com"
+companyName = "PT. Inti Bangun Bumi, CV. Berkah Maju Konstruksi"
 aboutUs = "Kami menyediakan jasa pengecoran beton siap pakai dengan armada truk molen dan concrete pump terbaik untuk semua kebutuhan konstruksi, menjamin beton berkualitas tinggi dengan pengiriman cepat di berbagai wilayah Jabodetabek dan sekitarnya."
+companyWeb = "BetonReadymixConcrete.com"
 
   # Informasi Kontak
   phone = "0812-9435-4959"
   email = "hargabetoncor8@gmail.com"
   address = "Payangan Jl. DIman RT.004/RW.007, Jatisari, Jatiasih, Bekasi, Jawa Barat 17426"
-  whatsappNumber = "6281294354959"
+  whatsappNumber = "6285179581745"
 
  # Hero Section
 hero_image = "/images/admin/bg_brc_gelap.png"
