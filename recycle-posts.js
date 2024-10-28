@@ -17,7 +17,6 @@ const pingServices = [
   'https://indexnow.org/ping?sitemap=',
 ];
 
-
 // Fungsi untuk melakukan ping
 async function pingSearchEngines(sitemapUrl) {
   for (const service of pingServices) {
@@ -48,16 +47,25 @@ function recyclePost(filePath) {
   return false;
 }
 
-// Memeriksa semua artikel
-let updatedCount = 0;
-fs.readdirSync(contentDir).forEach(file => {
-  if (file.endsWith('.md')) {
-    const filePath = path.join(contentDir, file);
-    if (recyclePost(filePath)) {
-      updatedCount++;
+// Fungsi rekursif untuk memeriksa artikel di dalam subfolder
+function updatePostsInDir(dir) {
+  fs.readdirSync(dir).forEach(file => {
+    const filePath = path.join(dir, file);
+    const stats = fs.statSync(filePath);
+
+    if (stats.isDirectory()) {
+      updatePostsInDir(filePath); // Rekursif untuk subfolder
+    } else if (file.endsWith('.md')) {
+      if (recyclePost(filePath)) {
+        updatedCount++;
+      }
     }
-  }
-});
+  });
+}
+
+// Memeriksa semua artikel di folder content dan subfoldernya
+let updatedCount = 0;
+updatePostsInDir(contentDir);
 
 if (updatedCount > 0) {
   console.log(`${updatedCount} artikel telah diperbarui.`);
