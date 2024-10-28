@@ -1,8 +1,8 @@
 ---
-title: "Biaya Sewa Pompa Beton di Ciantra Cikarang Selatan"
-date: "2023-06-25"
-categories: 
- - "biaya"
+title: Biaya Sewa Pompa Beton di Ciantra Cikarang Selatan
+date: '2024-10-28'
+categories:
+  - biaya
 ---
 
 Dalam lingkup konstruksi terkini, efisiensi dan kecepatan kerja adalah faktor utama keberhasilan setiap pekerjaan. Salah satu alat penting yang mendukung hal ini adalah pompa cor. Jika Anda mencari info tentang harga sewa Pompa Beton di Ciantra Cikarang Selatan, artikel ini akan menyajikan deskripsi komprehensif tentang alat ini, kelebihannya, serta detail harga sewanya yang wajib Anda ketahui.

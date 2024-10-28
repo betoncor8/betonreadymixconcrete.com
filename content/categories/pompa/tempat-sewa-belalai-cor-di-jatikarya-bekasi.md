@@ -1,8 +1,8 @@
 ---
-title: "Tempat Sewa Belalai Cor di Jatikarya Bekasi"
-date: "2023-06-17"
-categories: 
-  - "pompa"
+title: Tempat Sewa Belalai Cor di Jatikarya Bekasi
+date: '2024-10-28'
+categories:
+  - pompa
 ---
 
 Dalam lingkup pembangunan terkini, efektivitas dan kecepatan kerja adalah kunci kesuksesan proyek setiap pekerjaan. Salah satu alat yang berperan penting dalam mewujudkan hal tersebut adalah pompa beton. Jika Anda memerlukan info tentang harga sewa Belalai Cor di Jatikarya Bekasi, artikel ini akan memberikan deskripsi komprehensif tentang alat ini, kelebihannya, serta detail harga sewanya yang perlu Anda ketahui.

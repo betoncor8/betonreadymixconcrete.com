@@ -1,8 +1,8 @@
 ---
-title: "Harga Sewa Concrete Pump di Cipayung Cikarang Timur"
-date: "2023-10-18"
-categories: 
-  - "pompa"
+title: Harga Sewa Concrete Pump di Cipayung Cikarang Timur
+date: '2024-10-28'
+categories:
+  - pompa
 ---
 
 Dalam lingkup konstruksi modern, efisiensi dan kecepatan kerja adalah kunci kesuksesan proyek setiap proyek. Salah satu alat penting yang membantu hal ini adalah pompa beton. Jika Anda memerlukan keterangan tentang harga sewa Concrete Pump di Cipayung Cikarang Timur, artikel ini akan memberikan gambaran menyeluruh tentang alat ini, kelebihannya, serta perincian biaya sewanya yang perlu Anda ketahui.

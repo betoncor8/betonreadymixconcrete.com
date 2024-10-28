@@ -1,8 +1,8 @@
 ---
-title: "Harga Sewa Concrete Pump di Jatikarya Bekasi"
-date: "2023-07-14"
-categories: 
-  - "pompa"
+title: Harga Sewa Concrete Pump di Jatikarya Bekasi
+date: '2024-10-28'
+categories:
+  - pompa
 ---
 
 Dalam dunia bangunan modern, efektivitas dan kelancaran adalah kunci kesuksesan setiap proyek. Salah satu alat yang memiliki peran penting dalam mewujudkan hal tersebut adalah pompa cor. Jika Anda memerlukan keterangan tentang biaya sewa Concrete Pump di Jatikarya Bekasi, artikel ini akan menyajikan deskripsi menyeluruh tentang instrumen ini, keunggulannya, serta rincian biaya sewanya yang harus Anda ketahui.

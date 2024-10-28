@@ -1,8 +1,8 @@
 ---
-title: "Harga Sewa Concrete Pump di Serang Cikarang Selatan"
-date: "2023-09-08"
-categories: 
-  - "pompa"
+title: Harga Sewa Concrete Pump di Serang Cikarang Selatan
+date: '2024-10-28'
+categories:
+  - pompa
 ---
 
 Efisiensi dan kelancaran adalah elemen penting dalam keberhasilan proyek masa kini. Salah satu peralatan yang berperan penting dalam menghasilkan hal tersebut adalah concrete pump. Jika Anda memerlukan informasi tentang harga sewa Concrete Pump di Serang Cikarang Selatan, artikel ini akan menyediakan penjelasan menyeluruh tentang alat ini, keuntungannya, serta rincian harga sewanya yang harus Anda ketahui.

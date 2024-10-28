@@ -1,8 +1,8 @@
 ---
-title: "Harga Sewa Concrete Pump di Cijengkol Setu Bekasi"
-date: "2023-07-23"
-categories: 
-  - "pompa"
+title: Harga Sewa Concrete Pump di Cijengkol Setu Bekasi
+date: '2024-10-28'
+categories:
+  - pompa
 ---
 
 Dalam bidang pembangunan terkini, keefisienan dan kecepatan kerja adalah faktor utama kesuksesan proyek setiap proyek. Salah satu alat penting yang membantu hal ini adalah pompa beton. Bagi Anda yang membutuhkan info tentang biaya sewa Concrete Pump di Cijengkol Setu Bekasi, artikel ini akan menyediakan gambaran komprehensif mengenai instrumen ini, keuntungannya, serta perincian biaya sewa yang harus Anda ketahui.

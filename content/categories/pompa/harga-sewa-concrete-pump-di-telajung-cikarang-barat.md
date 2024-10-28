@@ -1,8 +1,8 @@
 ---
-title: "Harga Sewa Concrete Pump di Telajung Cikarang Barat"
-date: "2023-08-11"
-categories: 
-  - "pompa"
+title: Harga Sewa Concrete Pump di Telajung Cikarang Barat
+date: '2024-10-28'
+categories:
+  - pompa
 ---
 
 Dalam lingkup konstruksi terkini, efektivitas dan kelancaran adalah kunci keberhasilan setiap proyek. Salah satu instrumen penting yang membantu hal ini adalah pompa cor. Jika Anda mencari info tentang biaya sewa Concrete Pump di Telajung Cikarang Barat, artikel ini akan menyediakan penjelasan komprehensif tentang instrumen ini, keunggulannya, serta detail harga sewanya yang perlu Anda ketahui.

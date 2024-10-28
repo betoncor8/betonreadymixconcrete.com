@@ -1,8 +1,8 @@
 ---
-title: "Biaya Sewa Pompa Beton di Jatiluhur Bekasi"
-date: "2023-06-06"
-categories: 
- - "biaya"
+title: Biaya Sewa Pompa Beton di Jatiluhur Bekasi
+date: '2024-10-28'
+categories:
+  - biaya
 ---
 
 Keefisienan dan kecepatan kerja adalah elemen penting dalam kesuksesan pekerjaan terkini. Salah satu alat penting yang membantu hal ini adalah concrete pump. Jika Anda mencari keterangan tentang harga sewa Pompa Beton di Jatiluhur Bekasi, artikel ini akan menyajikan penjelasan menyeluruh tentang peralatan ini, keuntungannya, serta rincian harga sewanya yang wajib Anda ketahui.

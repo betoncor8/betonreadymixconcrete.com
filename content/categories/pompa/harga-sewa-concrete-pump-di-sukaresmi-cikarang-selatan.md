@@ -1,8 +1,8 @@
 ---
-title: "Harga Sewa Concrete Pump di Sukaresmi Cikarang Selatan"
-date: "2023-10-05"
-categories: 
-  - "pompa"
+title: Harga Sewa Concrete Pump di Sukaresmi Cikarang Selatan
+date: '2024-10-28'
+categories:
+  - pompa
 ---
 
 Dalam bidang pembangunan masa kini, efektivitas dan kecepatan kerja adalah kunci kesuksesan proyek setiap proyek. Salah satu peralatan yang memiliki peran penting dalam mencapai hal tersebut adalah pompa cor. Jika Anda memerlukan keterangan tentang harga sewa Concrete Pump di Sukaresmi Cikarang Selatan, artikel ini akan memberikan penjelasan lengkap tentang alat ini, keunggulannya, serta rincian biaya sewanya yang harus Anda ketahui.

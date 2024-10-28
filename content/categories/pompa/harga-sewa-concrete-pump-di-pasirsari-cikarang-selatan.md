@@ -1,8 +1,8 @@
 ---
-title: "Harga Sewa Concrete Pump di Pasirsari Cikarang Selatan"
-date: "2023-10-11"
-categories: 
-  - "pompa"
+title: Harga Sewa Concrete Pump di Pasirsari Cikarang Selatan
+date: '2024-10-28'
+categories:
+  - pompa
 ---
 
 Efisiensi dan kecepatan kerja adalah faktor utama dalam keberhasilan proyek konstruksi terkini. Salah satu instrumen penting yang membantu hal ini adalah concrete pump. Jika Anda mencari informasi tentang harga sewa Concrete Pump di Pasirsari Cikarang Selatan, artikel ini akan memberikan gambaran menyeluruh tentang alat ini, keuntungannya, serta detail harga sewanya yang harus Anda ketahui.
