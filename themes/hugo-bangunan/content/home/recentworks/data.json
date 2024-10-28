@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "items": [
+            {
+                "name": "Jayamix",
+                "url": "#",
+                "image": "/images/jayamix.png"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "items": [
+            {
+                "name": "Pioneer",
+                "url": "#",
+                "image": "/images/tiga-roda.png"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "items": [
+            {
+                "name": "SGG",
+                "url": "#",
+                "image": "/images/sgg.png"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "items": [
+            {
+                "name": "Merah Putih",
+                "url": "#",
+                "image": "/images/merahputih.png"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "items": [
+            {
+                "name": "Adhimix",
+                "url": "#",
+                "image": "/images/adhimix.png"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "items": [
+            {
+                "name": "Fres Beton",
+                "url": "#",
+                "image": "/images/fresbeton.png"
+            }
+        ]
+    }
+]

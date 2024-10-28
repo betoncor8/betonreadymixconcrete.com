@@ -1,0 +1,67 @@
+baseURL = "https://betonreadymixconcrete.com/"
+languageCode = "en"
+title = "Beton Readymix Concrete | Kami menyediakan beton readymix berkualitas tinggi dengan layanan yang tepat waktu dan efisien"
+theme = "hugo-bangunan"
+summaryLength = "35"
+paginate = "10"
+
+[permalinks]
+    jakarta =":slug"
+[params]
+    name = "Beton Readymix Concrete"
+    description = "Kualitas Tinggi, Ketepatan Waktu, dan Kepercayaan dalam Setiap Pengecoran"
+    email = "hargabetoncor8@gmail.com"
+    phone = "0812-9435-4959"
+    telepon = "//+6281294354959"
+    whatsapp = "//api.whatsapp.com/send?phone=6281294354959&text=*Nama*%20%3A%0A*Alamat*%20%3A%0A*No-Tlp*%20%3A%0A*Pesan?*%20%3A"
+    address = "Payangan Jl. DIman RT.004/RW.007, Jatisari, Jatiasih, Bekasi, Jawa Barat 17426"
+    year = 2024
+    avatar = "images/betonreadymixconcrete-512x512.png"
+    avatarclass = "circle"
+    background = ""
+    banner = "images/bg_brc_gelap.png"
+    favicon = "images/betonreadymixconcrete-512x512.png"
+    logo = "images/logo-web-beton-readymix-concrete-putih.png"
+    logoclass = "responsive float-left"
+    DateForm = "2 January 2006"
+    author = "Kang Utus"
+    tocMinWordCount = 500
+
+    showSubheader = true
+    showRecentWorks = true
+    enableNextPrevPages = true
+
+    showFooterContact = true
+    showFooterTextWidget = true
+    enableWhatApps = true
+    enableTelepon = true
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Concret Pump"
+    url = "/categories/pompa/"
+    weight = 5
+
+[[menu.main]]
+    name = "Readymix"
+    url = "/categories/readymix/"
+    weight = 5
+
+[[menu.main]]
+    name = "Jasa Cor"
+    url = "/categories/jasa/"
+    weight = 5
+
+[[menu.main]]
+    name = "Biaya Cor"
+    url = "/categories/biaya/"
+    weight = 5
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 5
+    ordered = false
