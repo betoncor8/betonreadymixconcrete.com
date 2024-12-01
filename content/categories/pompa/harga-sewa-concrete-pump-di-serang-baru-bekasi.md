@@ -1,8 +1,8 @@
 ---
-title: "Harga Sewa Concrete Pump di Serang Baru Bekasi"
-date: "2023-12-05"
-categories: 
-  - "pompa"
+title: Harga Sewa Concrete Pump di Serang Baru Bekasi
+date: '2024-12-01'
+categories:
+  - pompa
 ---
 
 Dalam dunia pembangunan modern, efektivitas dan kecepatan kerja adalah kunci kesuksesan setiap proyek konstruksi. Salah satu peralatan yang berkontribusi besar dalam menghasilkan hal tersebut adalah pompa beton. Bagi Anda yang membutuhkan informasi tentang biaya sewa Concrete Pump di Serang Baru Bekasi, artikel ini akan memberikan penjelasan lengkap mengenai instrumen ini, keunggulannya, serta rincian harga sewa yang harus Anda ketahui.

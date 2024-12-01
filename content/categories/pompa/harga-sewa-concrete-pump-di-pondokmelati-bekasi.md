@@ -1,8 +1,8 @@
 ---
-title: "Harga Sewa Concrete Pump di Pondokmelati Bekasi"
-date: "2023-12-09"
-categories: 
-  - "pompa"
+title: Harga Sewa Concrete Pump di Pondokmelati Bekasi
+date: '2024-12-01'
+categories:
+  - pompa
 ---
 
 Dalam lingkup konstruksi terkini, efektivitas dan kecepatan kerja adalah elemen penting keberhasilan setiap proyek. Salah satu alat yang berkontribusi besar dalam mewujudkan hal tersebut adalah pompa beton. Bagi Anda yang membutuhkan informasi tentang biaya sewa Concrete Pump di Pondokmelati Bekasi, artikel ini akan menyediakan gambaran lengkap mengenai alat ini, keunggulannya, serta rincian harga sewa yang perlu Anda ketahui.
