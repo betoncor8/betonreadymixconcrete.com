@@ -1,37 +1,39 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Hendra
+    name: Budi
     message: >-
-      Layanan readymix beton dari betonreadymixconcrete.com membantu saya dalam
-      proyek rumah saya. Beton yang dikirim premium dan proses pengecorannya
-      bersih.
+      Saya menggunakan layanan readymix beton dari betonreadymixconcrete.com
+      untuk proyek rumah saya, dan hasilnya menakjubkan. Beton yang disediakan
+      bermutu dan proses pengecorannya berjalan lancar.
     response: >-
-      Kami sangat menghargai kepercayaan Anda. Terima kasih telah memilih
+      Kami berterima kasih atas kepercayaan Anda. Terima kasih telah memilih
       readymix beton kami!
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Rina
+    name: Diah
     message: >-
-      Saya terbantu oleh betonreadymixconcrete.com dalam memenuhi kebutuhan
-      beton saya. Produknya bermutu tinggi dan sesuai dengan kebutuhan proyek.
+      betonreadymixconcrete.com mempermudah dalam memenuhi kebutuhan beton untuk
+      proyek saya. Produk yang dikirim sesuai standar dan sesuai dengan
+      spesifikasi yang dibutuhkan.
     response: >-
-      Kami sangat menghargai ulasan Anda. Bahagia mengetahui bahwa Anda puas
-      dengan layanan readymix dari kami.
+      Terima kasih atas masukan Anda! Kami gembira Anda puas dengan layanan dan
+      produk kami.
     rating: 5
   - avatar: /images/admin/avatar3.png
-    name: Joko
+    name: Rizal
     message: >-
-      Beton dari betonreadymixconcrete.com sesuai harapan dan berkualitas proyek
+      Beton dari betonreadymixconcrete.com sesuai harapan dan bermutu proyek
       perumahan saya.
     response: >-
-      Kami apresiasi ulasan Anda. Terima kasih atas pilihan Anda menggunakan
-      readymix beton kami!
+      Kami menghargai ulasan Anda. Terima kasih atas kepercayaan Anda
+      menggunakan readymix beton kami!
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Toni
+    name: Benny
     message: >-
       Saya gembira dengan layanan sewa concrete pump dari
-      betonreadymixconcrete.com. Prosesnya mudah dan hasilnya hebat.
+      betonreadymixconcrete.com. Prosesnya terkoordinasi dengan baik dan
+      hasilnya sangat memuaskan.
     response: >-
       Kami sangat menghargai kepercayaan Anda. Terima kasih telah memilih
       concrete pump kami untuk proyek Anda! Kami siap membantu proyek Anda
@@ -41,18 +43,18 @@ testimonials:
     name: Dewi
     message: >-
       Pelayanan betonreadymixconcrete.com memudahkan untuk proyek cor lantai
-      kantor saya. Solusi yang diberikan sangat tepat dan efektif.
+      kantor saya. Solusi yang diberikan akurat dan bermanfaat.
     response: >-
       Kami sangat menghargai ulasan Anda. Terima kasih telah memilih layanan
-      kami! Semoga hasilnya selalu memuaskan.
+      kami! Kami siap membantu di proyek berikutnya.
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Faisal
+    name: Rizal
     message: >-
-      Saya menyewa concrete pump untuk renovasi rumah, dan hasilnya menakjubkan.
-      Layanan yang diberikan betonreadymixconcrete.com kompeten.
+      Concrete pump dari betonreadymixconcrete.com berhasil memenuhi harapan
+      proyek pengecoran rumah saya. Layanannya berpengalaman dan efisien.
     response: >-
       Terima kasih telah memilih concrete pump kami untuk renovasi rumah Anda.
-      Kami senang layanan kami sesuai dengan harapan Anda. Kami siap mendukung
-      proyek lainnya.
+      Kami senang layanan kami sesuai dengan harapan Anda. Semoga proyek
+      berikutnya sukses.
     rating: 4
