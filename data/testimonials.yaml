@@ -1,60 +1,57 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Andi
+    name: Budi
     message: >-
-      Saya memanfaatkan layanan readymix beton dari betonreadymixconcrete.com
-      untuk proyek rumah saya, dan hasilnya sangat memuaskan. Beton yang
-      diberikan berkualitas tinggi dan proses pengecorannya sangat rapi.
+      Layanan readymix beton dari betonreadymixconcrete.com membantu saya dalam
+      proyek rumah saya. Beton yang disediakan premium dan proses pengecorannya
+      rapi.
     response: >-
-      Kami sangat menghargai kepercayaan Anda. Terima kasih telah memilih
+      Kami berterima kasih atas kepercayaan Anda. Terima kasih telah memilih
       readymix beton kami!
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Nur
+    name: Rina
     message: >-
-      betonreadymixconcrete.com sangat membantu dalam memenuhi kebutuhan beton
-      untuk proyek saya. Produk yang dikirim bermutu dan sesuai dengan
-      persyaratan yang diharapkan.
+      Saya terbantu oleh betonreadymixconcrete.com dalam memenuhi kebutuhan
+      beton saya. Produknya berkualitas dan sesuai dengan spesifikasi proyek.
     response: >-
-      Kami sangat menghargai ulasan Anda. Bahagia mengetahui bahwa Anda puas
-      dengan layanan readymix dari kami.
+      Terima kasih atas masukan Anda! Kami senang Anda puas dengan layanan dan
+      produk kami.
     rating: 5
   - avatar: /images/admin/avatar3.png
-    name: Ali
+    name: Faisal
     message: >-
-      Layanan readymix beton dari betonreadymixconcrete.com efisien dan tepat
-      waktu. Beton yang dikirim sesuai dengan kualitas yang saya harapkan untuk
-      proyek properti saya.
+      Beton dari betonreadymixconcrete.com cepat dikirim dan bermutu proyek
+      perumahan saya.
     response: >-
-      Kami apresiasi ulasan Anda. Terima kasih atas kepercayaan Anda menggunakan
-      readymix beton kami!
+      Terima kasih! Kami berkomitmen untuk menyediakan layanan readymix beton
+      berkualitas dengan waktu pengiriman yang efisien.
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Yudi
-    message: >-
-      Saya gembira dengan layanan sewa concrete pump dari
-      betonreadymixconcrete.com. Prosesnya efisien dan hasilnya luar biasa.
-    response: >-
-      Senang mendengar Anda puas dengan hasilnya. Terima kasih atas
-      kepercayaannya dalam menggunakan layanan kami! Semoga proyek berikutnya
-      berjalan lancar.
-    rating: 4
-  - avatar: /images/admin/avatar5.png
-    name: Fitri
-    message: >-
-      betonreadymixconcrete.com menyediakan layanan unggulan dalam proyek cor
-      lantai kantor saya. Layanannya kompeten dan hasilnya memuaskan.
-    response: >-
-      Terima kasih! Kami senang dapat membantu mewujudkan proyek cor lantai
-      kantor Anda dengan solusi efisien.
-    rating: 4
-  - avatar: /images/admin/avatar6.png
     name: Eko
     message: >-
-      Saya menyewa concrete pump untuk renovasi rumah, dan hasilnya memuaskan.
+      Layanan sewa concrete pump dari betonreadymixconcrete.com berjalan dengan
+      lancar dan hasilnya luar biasa.
+    response: >-
+      Kami sangat menghargai kepercayaan Anda. Terima kasih telah memilih
+      concrete pump kami untuk proyek Anda! Sampai jumpa di proyek berikutnya.
+    rating: 4
+  - avatar: /images/admin/avatar5.png
+    name: Lina
+    message: >-
+      Pelayanan betonreadymixconcrete.com mempercepat untuk proyek cor lantai
+      kantor saya. Solusi yang diberikan akurat dan bermanfaat.
+    response: >-
+      Terima kasih! Kami senang dapat membantu mewujudkan proyek cor lantai
+      kantor Anda dengan solusi terbaik.
+    rating: 4
+  - avatar: /images/admin/avatar6.png
+    name: Benny
+    message: >-
+      Saya menyewa concrete pump untuk renovasi rumah, dan hasilnya menakjubkan.
       Layanan yang diberikan betonreadymixconcrete.com berkualitas.
     response: >-
       Terima kasih telah memilih concrete pump kami untuk renovasi rumah Anda.
-      Kami senang layanan kami sesuai dengan harapan Anda. Kami siap mendukung
-      proyek lainnya.
+      Kami senang layanan kami sesuai dengan harapan Anda. Semoga proyek
+      berikutnya sukses.
     rating: 4
