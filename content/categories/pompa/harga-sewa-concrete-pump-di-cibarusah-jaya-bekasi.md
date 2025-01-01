@@ -1,8 +1,8 @@
 ---
-title: "Harga Sewa Concrete Pump di Cibarusah Jaya Bekasi"
-date: "2024-01-18"
-categories: 
-  - "pompa"
+title: Harga Sewa Concrete Pump di Cibarusah Jaya Bekasi
+date: '2025-01-01'
+categories:
+  - pompa
 ---
 
 Efektivitas dan kecepatan kerja adalah faktor utama dalam kesuksesan proyek konstruksi di era konstruksi masa kini. Salah satu alat yang berperan fungsi penting dalam mencapai efisiensi ini adalah concrete pump. Bagi Anda yang membutuhkan info tentang harga sewa Concrete Pump di Cibarusah Jaya Bekasi, artikel ini akan membahas secara lengkap tentang alat ini, manfaatnya dalam tahap proyek, serta perincian biaya sewa yang wajib Anda pertimbangkan agar proyek Anda berlangsung lancar dan cocok anggaran.

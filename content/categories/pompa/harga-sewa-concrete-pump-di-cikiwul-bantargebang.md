@@ -1,8 +1,8 @@
 ---
-title: "Harga Sewa Concrete Pump di Cikiwul Bantargebang"
-date: "2024-01-14"
-categories: 
-  - "pompa"
+title: Harga Sewa Concrete Pump di Cikiwul Bantargebang
+date: '2025-01-01'
+categories:
+  - pompa
 ---
 
 Efektivitas dan kecepatan kerja adalah kunci dalam kesuksesan proyek konstruksi masa kini. Salah satu instrumen yang berkontribusi besar dalam menghasilkan hal tersebut adalah concrete pump. Bagi Anda yang mencari informasi tentang biaya sewa Concrete Pump di Cikiwul Bantargebang, artikel ini akan menyediakan gambaran lengkap mengenai instrumen ini, kelebihannya, serta rincian harga sewa yang wajib Anda ketahui.

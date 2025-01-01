@@ -1,8 +1,8 @@
 ---
-title: "Harga Sewa Concrete Pump di Cikarang Kota"
-date: "2024-01-05"
-categories: 
-  - "pompa"
+title: Harga Sewa Concrete Pump di Cikarang Kota
+date: '2025-01-01'
+categories:
+  - pompa
 ---
 
 Efektivitas dan kecepatan adalah faktor utama dalam kesuksesan proyek konstruksi terkini. Salah satu instrumen yang berperan penting dalam mencapai hal tersebut adalah pompa cor. Bagi Anda yang memerlukan keterangan tentang harga sewa Concrete Pump di Cikarang Kota, artikel ini akan menyajikan deskripsi lengkap mengenai alat ini, kelebihannya, serta detail biaya sewa yang harus Anda ketahui.
