@@ -1,8 +1,8 @@
 ---
-title: "Harga Sewa Concrete Pump di Jatimakmur Bekasi"
-date: "2024-02-01"
-categories: 
-  - "pompa"
+title: Harga Sewa Concrete Pump di Jatimakmur Bekasi
+date: '2025-02-01'
+categories:
+  - pompa
 ---
 
 Efisiensi dan kecepatan kerja adalah kunci dalam kesuksesan proyek konstruksi modern. Salah satu peralatan yang berperan penting dalam mewujudkan hal tersebut adalah pompa cor. Jika Anda mencari info tentang harga sewa Concrete Pump di Jatimakmur Bekasi, artikel ini akan menyediakan gambaran lengkap tentang alat ini, keunggulannya, serta detail biaya sewanya yang harus Anda ketahui.
